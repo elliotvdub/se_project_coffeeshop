@@ -1,5 +1,5 @@
 .reservation {
-  background: center / cover no-repeat url(/images/background_reservation.svg)
+  background: center / cover no-repeat url(../images/background_reservation.svg)
     #d9e7ff;
   padding: 100px 0 120px;
 }

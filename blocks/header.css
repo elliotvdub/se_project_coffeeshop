@@ -1,5 +1,5 @@
 .header {
-  background: center / cover no-repeat url(/images/background_header.svg) #fff;
+  background: center / cover no-repeat url(../images/background_header.svg) #fff;
   height: 800px;
   position: relative;
   padding: 30px 80px 40px;
