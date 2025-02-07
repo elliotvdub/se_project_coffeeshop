@@ -12,7 +12,7 @@
 }
 
 .about {
-  padding: 119px 80px 173px;
+  padding: 100px 80px 173px;
   background-color: #0a2850;
   color: #fff;
   position: relative;
@@ -31,6 +31,7 @@
 }
 
 .about__content {
+  margin: 19px 0 0;
   max-width: 660px;
   display: flex;
   flex-direction: column;
